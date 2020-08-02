@@ -1,0 +1,7 @@
+pelis.py
+setup.py
+pelis.egg-info/PKG-INFO
+pelis.egg-info/SOURCES.txt
+pelis.egg-info/dependency_links.txt
+pelis.egg-info/requires.txt
+pelis.egg-info/top_level.txt
